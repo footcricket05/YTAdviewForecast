@@ -29,7 +29,7 @@ To use this project, follow these steps:
 
 1. Clone the repository to your local machine.
 
-2. Open the Youtube_Adview_Prediction.ipynb or Youtube_Adview_Prediction.py file in Jupyter Notebook or your preferred IDE.
+2. Open the `Youtube Adview Prediction ML.ipynb` or `Youtube Adview Prediction ML.py` file in Jupyter Notebook or your preferred IDE.
 
 3. Run the code to train and test the model.
 
